@@ -1,0 +1,28 @@
+@import "../styles-variables.scss";
+
+.image-container {
+  position: fixed;
+  bottom: 0px;
+}
+
+.finger-container {
+  object-fit: cover;
+  width: 100%;
+  height: auto;
+}
+
+.title-container {
+  padding-left: 10px;
+}
+
+.title {
+  font-family: 'Russo One', sans-serif;
+}
+
+.text-container {
+  color: black;
+  top: 10px;
+  padding-left: 280px;
+  background: none;
+  font-family: 'Indie Flower', cursive;
+}
